@@ -1,2 +1,4 @@
 # hello-world
-Tutorial repository
+## Tutorial repository
+This repository for small tutorials.
+
