@@ -25,4 +25,8 @@ git log
 git checkout <commit hash>
 git checkout <branch name>
 ```
-
+### Read git objects
+```
+git cat-file -t <commit hash>
+git cat-file -p <commit hash>
+```
