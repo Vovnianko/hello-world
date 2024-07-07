@@ -15,3 +15,14 @@ Blob - file
 Tree - derectory
 Commit - saved version
 Annotated tag 
+
+### Main git commands
+```
+git status
+git add <files>
+git commit -m "<message>"
+git log
+git checkout <commit hash>
+git checkout <branch name>
+```
+
