@@ -30,3 +30,19 @@ git checkout <branch name>
 git cat-file -t <commit hash>
 git cat-file -p <commit hash>
 ```
+
+### Commands of branch
+```
+git branch <branch name>
+git checkout <branch name>
+git checkout -b <branch name>  # create branch and checkout
+git branch  # list of branches
+git branch -m <new branch name>  # rename branch
+git branch -d <branch name>  # delete branch
+
+```
+
+### Merge commands
+```
+git merge <feature branch name>
+```
