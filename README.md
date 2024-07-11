@@ -46,3 +46,16 @@ git branch -d <branch name>  # delete branch
 ```
 git merge <feature branch name>
 ```
+
+### Commands to work with remote repository
+```
+git clone <url>
+git branch -a  # all branches including remote repository
+git remote add origin <url>  
+git push -u origin <branch>  # for first upload to remote repository
+git pull  # load update from remote repository
+git push  # send update from local to remote repositories
+git remote -v  # check configuration of remote repository
+git branch -vv  # check link local branch with remote branch 
+
+```
