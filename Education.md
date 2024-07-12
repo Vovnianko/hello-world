@@ -1,9 +1,9 @@
 # Swift
 ## Basics
 
-# Xcode - Playground
+### Xcode - Playground
 
-#Swift
+### Swift
 ```
 Collections
 Functions and closures
