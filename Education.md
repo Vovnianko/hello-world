@@ -1,4 +1,7 @@
-# Swift
+# Swift 
+
+#Learning Path
+
 ## Basics
 
 ### Xcode - Playground
@@ -25,4 +28,19 @@ Incapsulations
 Polimorphism
 ```
 
+### GIT
+```
+local and remote repositories
+commit
+merge and rebase
+push and fetch
+```
 
+### Paterns
+```
+Singleton
+Delegation
+```
+
+
+## First App
