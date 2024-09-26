@@ -1,9 +1,9 @@
-//
-//  LandmarksApp.swift
-//  Landmarks
-//
-//  Created by Juli Vovnianko on 24.09.2024.
-//
+/*
+See the LICENSE.txt file for this sample’s licensing information.
+
+Abstract:
+The top-level definition of the Landmarks app.
+*/
 
 import SwiftUI
 
